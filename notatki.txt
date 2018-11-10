@@ -1,1 +1,4 @@
 tutaj na tych plikach bêdê æwiczy³ pracê z git i githubem
+
+
+a tu mam notatki dla pnia g³ównego master...

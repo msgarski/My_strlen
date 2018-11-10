@@ -10,5 +10,6 @@ int main(int argc, char** argv) {
 	std::cout<<"dlugosc tablicy a ="<<len<<std::endl;
 	std::cin.sync();
 	std::cin.get();
+	//pllik z pnia glownego master
 	return 0;
 }
