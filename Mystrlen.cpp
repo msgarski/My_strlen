@@ -8,8 +8,7 @@ int main(int argc, char** argv) {
 		len++;
 	}	
 	std::cout<<"dlugosc tablicy a ="<<len<<std::endl;
-	return 0;
-	
-		//std::cin.sync();
+	std::cin.sync();
 	std::cin.get();
+	return 0;
 }
