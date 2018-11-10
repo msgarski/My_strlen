@@ -9,4 +9,7 @@ int main(int argc, char** argv) {
 	}	
 	std::cout<<"dlugosc tablicy a ="<<len<<std::endl;
 	return 0;
+	
+		//std::cin.sync();
+	std::cin.get();
 }
