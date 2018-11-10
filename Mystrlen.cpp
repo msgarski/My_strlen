@@ -9,4 +9,8 @@ int main(int argc, char** argv) {
 	}	
 	std::cout<<"dlugosc tablicy a ="<<len<<std::endl;
 	return 0;
+	
+	//ja ubijam 6 bialek
+	
+	//i co jeszcze?
 }
