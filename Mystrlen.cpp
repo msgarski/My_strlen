@@ -1,4 +1,5 @@
 #include <iostream>
+//taki sobie komentarz
 int main(int argc, char** argv) {	
 	char a[]={"123456789a"};
 	int len=0;
