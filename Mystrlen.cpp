@@ -11,5 +11,6 @@ int main(int argc, char** argv) {
 	std::cin.sync();
 	std::cin.get();
 	//pllik z pnia glownego master
+	//oddanie pnia master z innego folderu
 	return 0;
 }
