@@ -13,4 +13,5 @@ int main(int argc, char** argv) {
 	//ja ubijam 6 bialek
 	
 	//i co jeszcze?
+	//ten plik jest w nowej galezi odnoga_proba i nic na razie nie zmieniam tu
 }
